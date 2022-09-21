@@ -2,6 +2,8 @@
 /* color background-color */
 /* rgb red green blue 0-255*/
 /* rgba 0-1 opacity/transparency */
+/* HSL */
+/* HEX values #RRGGBB */
 
 /*
 #firt {
@@ -36,6 +38,7 @@ body {
 }
 */
 
+/*
 #first {
     color: rgb(100, 123, 56);
     background-color: rgba(0, 0, 0. 0.5);
@@ -58,4 +61,25 @@ body {
 
 body {
     background: rgba(10, 200, 200, 0.56);
+}
+*/
+
+#first {
+    color: #41ead4;
+    background-color: #b388eb;
+}
+
+#second {
+    color: #fff;
+    background-color: #00ff00;
+}
+
+#three {
+    color: #0000ff;
+    background: #f15025;
+}
+
+#four {
+    color: #f234ad;
+    background-color: #222;
 }
