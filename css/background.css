@@ -1,0 +1,50 @@
+/* Last Rule Order */
+/* background-size */
+/* background-position */
+/* background - attachment */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    min-height: 100vh;
+    color: green;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.big-img {
+    background: url("../img/coffe-bg.jpg");
+    /* background-repeat: round;*/
+    background-size: cover;
+    /*background-position: center;*/
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.small-img {
+    border: 2px solid red;
+    background: url("../img/bp.jpg");
+    /* background-repeat: repeat;*/
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x;*/
+    /* background-repeat: repeat-y;*/
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+    /* background-size: cover; */
+    background-position: center;
+    background-size: cover;
+}
+
+.folder-img {
+    background: url("../img/frenchroast.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
