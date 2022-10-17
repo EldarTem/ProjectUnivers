@@ -1,8 +1,9 @@
 /*
-pseudo elements ::before ::after Content not element
+pseudo elements ::before ::after Content not element 
 content:'' --- required
 img --- does not work 
 */
+
 
 p::before {
     content:"hello";
