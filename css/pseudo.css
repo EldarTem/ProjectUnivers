@@ -4,7 +4,6 @@ content:'' --- required
 img --- does not work 
 */
 
-
 p::before {
     content:"hello";
     display: block;
