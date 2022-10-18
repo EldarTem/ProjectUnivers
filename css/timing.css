@@ -10,11 +10,6 @@ ease-out = slow end
 ease-in-out = slow start, fast, slow end
 */
 
-/*
-Transition 0 = 100%
-ANIMATION 0 1% 2% ..... 100%
-*/
-
 div {
     width: 100px;
     height: 100px;
